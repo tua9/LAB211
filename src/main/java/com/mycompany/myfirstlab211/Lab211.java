@@ -24,6 +24,7 @@ import com.mycompany.week05.ReservationManager;
 import com.mycompany.week07.FruitShopManager;
 import com.mycompany.week08.ManageCountries;
 import com.mycompany.week08.ShapeTest;
+import com.mycompany.week09.CandidateManager;
 import java.io.PrintStream;
 import java.util.List;
 
@@ -127,7 +128,7 @@ public class Lab211 {
 //            ReservationManager.run();
 
         /*WEEK 06*/
-        
+            //Review
         /*WEEK 07*/
         
 //        FruitShopManager.run();
@@ -140,7 +141,14 @@ public class Lab211 {
         
             //****************************************************
             
-        ManageCountries.run();
+//        ManageCountries.run();
+
+            //****************************************************
+
+        /*WEEK 09*/
+        
+//        CandidateManager.getInstance().run();
+        
     }
 }
 
